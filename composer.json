@@ -1,0 +1,16 @@
+{
+    "name": "tienrocker/facebook-page-token",
+    "description": "project, sample, lib",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tien tran",
+            "email": "tienrocker@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "facebook/graph-sdk": "^5.7"
+    }
+}
